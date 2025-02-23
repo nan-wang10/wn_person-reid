@@ -11,5 +11,4 @@ The video set contains video subfolders named in the format of ID_mobile phone n
 
 For the protection of personal privacy, the mobile phone numbers in the uploaded dataset folder are processed.The full dataset will be uploaded and made public in the future.
 
-The EIVP dataset access in the following link: https://pan.baidu.com/s/14dFnnBPflp_nUpNx4Mqd4A?pwd=EIVP 
-The password is EIVP.
+The EIVP dataset can be obtained from the following link: https://pan.baidu.com/s/14dFnnBPflp_nUpNx4Mqd4A?pwd=EIVP, and the password is EIVP.
