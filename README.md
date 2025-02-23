@@ -10,3 +10,6 @@ The image set mainly contains bounding_box_test, bounding_box_train and query, a
 The video set contains video subfolders named in the format of ID_mobile phone number corresponding to 57 IDs. Each subfolder contains all the videos where that ID appears, and the videos are named in the overall order of Arabic numerals.
 
 For the protection of personal privacy, the mobile phone numbers in the uploaded dataset folder are processed.The full dataset will be uploaded and made public in the future.
+
+The EIVP dataset access in the following link: https://pan.baidu.com/s/14dFnnBPflp_nUpNx4Mqd4A?pwd=EIVP 
+The password is EIVP.
